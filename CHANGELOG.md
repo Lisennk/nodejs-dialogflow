@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/dialogflow?activeTab=versions
 
+## [1.1.0](https://www.github.com/googleapis/nodejs-dialogflow/compare/v1.0.0...v1.1.0) (2019-12-19)
+
+
+### Features
+
+* add support for operation info ([#488](https://www.github.com/googleapis/nodejs-dialogflow/issues/488)) ([12d58a6](https://www.github.com/googleapis/nodejs-dialogflow/commit/12d58a613d63045030e4f9910d8d5a3cffd34b06))
+
 ## [1.0.0](https://www.github.com/googleapis/nodejs-dialogflow/compare/v0.14.1...v1.0.0) (2019-12-05)
 
 
